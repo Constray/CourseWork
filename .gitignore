@@ -77,3 +77,12 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Project files 
+*.ico
+*.rc
+*.vcxproj*
+*.res*
+*.bi
+*.tlog
+*.metagen
