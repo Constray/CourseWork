@@ -1,31 +1,55 @@
-﻿========================================================================
-    ПРИЛОЖЕНИЕ. Обзор проекта WindowsFormsApplication1
-========================================================================
+﻿"All Star"
 
-Это приложение WindowsFormsApplication1 создано автоматически с помощью мастера приложений.  
+Somebody once told me the world is gonna roll me
+I ain't the sharpest tool in the shed
+She was looking kind of dumb with her finger and her thumb
+In the shape of an "L" on her forehead
 
-В этом файле представлена сводка содержимого всех файлов, входящих в состав приложения WindowsFormsApplication1.
+Well, the years start coming and they don't stop coming
+Fed to the rules and I hit the ground running
+Didn't make sense not to live for fun
+Your brain gets smart but your head gets dumb
 
-WindowsFormsApplication1.vcxproj
-    Это основной файл проекта VC++, создаваемый с помощью мастера приложений. Он содержит данные о версии языка Visual C++, использованной для создания файла, а также сведения о платформах, конфигурациях и функциях проекта, выбранных с помощью мастера приложений.
+So much to do, so much to see
+So what's wrong with taking the back streets?
+You'll never know if you don't go
+You'll never shine if you don't glow
 
-WindowsFormsApplication1.vcxproj.filters
-    Это файл фильтров для проектов VC++, созданный с помощью мастера приложений. Он содержит сведения о сопоставлениях между файлами в вашем проекте и фильтрами. Эти сопоставления используются в среде IDE для группировки файлов с одинаковыми расширениями в одном узле (например CPP-файлы сопоставляются с фильтром "Исходные файлы").
+[Chorus:]
+Hey, now, you're an All Star, get your game on, go play
+Hey, now, you're a Rock Star, get the show on, get paid
+And all that glitters is gold
+Only shooting stars break the mold
 
-WindowsFormsApplication1.cpp
-    Это основной исходный файл приложения.
-    Код для отображения формы.
+It's a cool place and they say it gets colder
+You're bundled up now wait 'til you get older
+But the meteor men beg to differ
+Judging by the hole in the satellite picture
 
-Form1.h
-    Реализация класса формы и функции InitializeComponent().
+The ice we skate is getting pretty thin
+The water's getting warm so you might as well swim
+My world's on fire. How about yours?
+That's the way I like it and I'll never get bored.
 
-AssemblyInfo.cpp
-    В него включены настраиваемые атрибуты для изменения метаданных сборки.
+[Chorus 2x]
 
-/////////////////////////////////////////////////////////////////////////////
-Другие стандартные файлы:
+Somebody once asked could I spare some change for gas
+I need to get myself away from this place
+I said yep, what a concept
+I could use a little fuel myself
+And we could all use a little change
 
-StdAfx.h, StdAfx.cpp
-    Эти файлы используются для построения файла предкомпилированного заголовка (PCH) с именем WindowsFormsApplication1.pch и файла предкомпилированных типов с именем StdAfx.obj.
+Well, the years start coming and they don't stop coming
+Fed to the rules and I hit the ground running
+Didn't make sense not to live for fun
+Your brain gets smart but your head gets dumb
 
-/////////////////////////////////////////////////////////////////////////////
+So much to do so much to see
+So what's wrong with taking the back streets
+You'll never know if you don't go
+You'll never shine if you don't glow.
+
+[Chorus]
+
+And all that glitters is gold
+Only shooting stars break the mold
